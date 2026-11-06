@@ -12,7 +12,7 @@ O principal objetivo é comparar as versões sequencial e paralela do ACO aplica
 
 ## Estrutura do repositório
 
-
+```text
 MIRP/
 ├── instances/
 │   └── group2/
@@ -22,6 +22,7 @@ MIRP/
 ├── results/
 ├── README.md
 └── requirements.txt
+```
 
 # Maritime Inventory Routing Problem (MIRP)
 
@@ -35,7 +36,7 @@ The main objective is to compare the sequential and parallel versions of ACO app
 
 ## Repository Structure
 
-text
+```text
 MIRP/
 ├── instances/
 │   └── group2/
@@ -45,5 +46,9 @@ MIRP/
 ├── results/
 ├── README.md
 └── requirements.txt
+```
+
+
+
 
 
